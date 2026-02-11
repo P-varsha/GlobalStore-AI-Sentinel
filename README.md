@@ -12,3 +12,7 @@ By linking AI-tagged customer complaints to transaction data, I identified that 
 # 📂 How to View
 1. Open the `.ipynb` to see the Python cleaning logic.
 2. Open the `.twbx` file in Tableau to explore the interactive dashboard.
+
+<img width="1093" height="901" alt="image" src="https://github.com/user-attachments/assets/4228e9ed-f925-4324-b167-1dc08dc21543" />
+
+
